@@ -1,2 +1,4 @@
 # diss
-Debian Integrated Support System
+Debian Integrated Support System (diss) is a project with the aim to integrate all of debian's support options (IRC, Mailing Lists, Forums, BTS) and produce a client similar to reportbug with a GUI and text-mode interface for users to seek solutions to issues with Debian systems. This will require not only development of such a client, but also an IRC bot, a centralized issue tracking server system, as well as diagnostic tree templates and possibly IRC client scripts to simplify interfacing with the system.
+
+Aim is to code these things in Python (up for debate) and package them in Debian. The project is currently in pre-alpha scouting phase looking for interested parties and ideas. Project home will be here on github and #diss on chat.freenode.net (pending ownership of channel currently)
