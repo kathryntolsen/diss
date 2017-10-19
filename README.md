@@ -84,3 +84,4 @@ Long term, we'd like to see Debian installer have a more robust skill determinat
 
 https://www.reddit.com/r/debian/comments/762lg9/call_for_volunteers_for_a_new_debian_support/
 http://forums.debian.net/viewtopic.php?f=20&t=134959&p=656143#p656143
+
