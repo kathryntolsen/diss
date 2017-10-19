@@ -80,7 +80,8 @@ It should be stressed that this is not something we want to push out and deploy 
 
 Long term, we'd like to see Debian installer have a more robust skill determination as its first step, with more than just a normal/expert install mode, and this support client being automatically installed by default on systems not selecting advanced or expert levels. We'd like to see all our supporters participating not just in free-range support, but registering into a trust-based system and using GPG signatures, so that our knowledge base can be higher quality and more trusted.
 
-# Linked threads
+# Links
 
-[Reddit](https://www.reddit.com/r/debian/comments/762lg9/call_for_volunteers_for_a_new_debian_support/)  
-[Debian Forums](http://forums.debian.net/viewtopic.php?f=20&t=134959&p=656143#p656143)
+[DISS Wiki](https://github.com/kathryntolsen/diss/wiki)  
+[Reddit Thread](https://www.reddit.com/r/debian/comments/762lg9/call_for_volunteers_for_a_new_debian_support/)  
+[Debian Forums Tread](http://forums.debian.net/viewtopic.php?f=20&t=134959&p=656143#p656143)
