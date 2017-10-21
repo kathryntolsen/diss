@@ -94,3 +94,4 @@ Long term, we'd like to see Debian installer have a more robust skill determinat
   
 [Debian-User Mailing List Thread](https://lists.debian.org/debian-user/2017/10/msg00754.html)
 
+[Related Post from Debian-Project Mailing List in March 2017](https://lists.debian.org/debian-project/2017/03/msg00019.html)
