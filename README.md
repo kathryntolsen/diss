@@ -1,3 +1,13 @@
+# NOTICE!
+
+After posting project to debian-project@lists.debian.org is has come to my attention that those in the FOSS community may have concerns about using a proprietary devleopment system like GitHub. 
+
+I will leave this as-is for legacy purposes as an archive of our first week's efforts. 
+
+Future updates will be on the [new project home on GitLab](https://git.fosscommunity.in/kathryntolsen/diss) and [the new project Wiki on GitLab](https://git.fosscommunity.in/kathryntolsen/diss/wikis/home).
+
+I thank you all for your interest in this project and welcome you to follow us on GitLab. I will be working on updating our IRC bot in the development channel to support webhook notifications of the new system. I will not be updating this project page further. 
+
 # DISS - Debian Integrated Support System
 
 Project with the ambitious aim to synergistically integrate all Debian's support resources and offer a simple and intuitive interface to well-tested diagnostic procedures.
